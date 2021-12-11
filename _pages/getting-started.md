@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Publications
 permalink: /publication/
 ---
 
-- 
+
+- D. T. Phan, L. M. Nguyen, P. Murali, N. H. Pham, H. Liu, J. Kalagnanam. Regression Optimization for System-level Production Control. [American Control Conference (ACC)](https://acc2021.a2c2.org/), 2021.
+- H Liu, S Lu.Convergence of the augmented decomposition algorithm, [Computational Optimization and Applications](https://link.springer.com/article/10.1007/s10589-018-0039-6), 2019
 
 
 <!-- ### Step 1) Fork Reverie to your User Repository
