@@ -5,9 +5,16 @@ permalink: /publication/
 ---
 
 
-- D. T. Phan, L. M. Nguyen, P. Murali, N. H. Pham, H. Liu, J. Kalagnanam. Regression Optimization for System-level Production Control. [American Control Conference (ACC)](https://acc2021.a2c2.org/), 2021.
-- H Liu, S Lu.Convergence of the augmented decomposition algorithm, [Computational Optimization and Applications](https://link.springer.com/article/10.1007/s10589-018-0039-6), 2019
+Publications
+- D. T. Phan, L. M. Nguyen, P. Murali, N. H. Pham, H. Liu, J. Kalagnanam. Regression Optimization for System-level Production Control, [American Control Conference (ACC),  2021.](https://acc2021.a2c2.org/)
+- T Qiu, C Song, Y Zhang, H Liu, JM Vose.  [Urbanization and climate change jointly shift land surface phenology in the northern mid-latitude large cities](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304961), Remote Sensing of Environment, 2020
+- H Liu, S Lu. [Convergence of the augmented decomposition algorithm](https://link.springer.com/article/10.1007/s10589-018-0039-6), Computational Optimization and Applications, 2019
 
+
+Preprints
+- X Huang, Z Ye, H Liu, et. al. Meta-Auto-Decoder for Solving Parametric Partial Differential Equations. arXiv: 2111.08823, 2021 [preprint](https://arxiv.org/pdf/2111.08823.pdf)
+- X Huang, H Liu, et. al. Solving Partial Differential Equations with Point Source Based on Physics-Informed Neural Networks. arXiv: 2111.01394, 2021 [preprint](https://arxiv.org/pdf/2111.01394.pdf)
+- S Lu, H Liu. Statistical inference for piecewise normal distributions and stochastic variational inequalities. arXiv:1907.05353, 2019 [preprint](https://arxiv.org/pdf/1907.05353.pdf)
 
 <!-- ### Step 1) Fork Reverie to your User Repository
 
