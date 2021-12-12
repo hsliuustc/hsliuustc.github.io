@@ -15,7 +15,7 @@ Preprints
 - X Huang, Z Ye, H Liu, et. al. Meta-Auto-Decoder for Solving Parametric Partial Differential Equations. arXiv: 2111.08823, 2021 [preprint](https://arxiv.org/pdf/2111.08823.pdf)
 - X Huang, H Liu, et. al. Solving Partial Differential Equations with Point Source Based on Physics-Informed Neural Networks. arXiv: 2111.01394, 2021 [preprint](https://arxiv.org/pdf/2111.01394.pdf)
 - H Liu, L. M. Nguyen, D. T. Phan. StepDIRECT: A Derivative-Free Optimization Method for Stepwise Functions. Submitted to Journal of Global Optimization
-- H Liu, L. M. Nguyen, D. T. Phan. StepDIRECT: Hybrid Bayesian Optimization with DIRECT. Manuscript.
+- H Liu, L. M. Nguyen, D. T. Phan. Hybrid Bayesian Optimization with DIRECT. Manuscript.
 - H Liu, L. M. Nguyen, D. T. Phan. A Two-Level Algorithm for Multi-Block Nonconvex Nonsmooth Optimization Problems. Manuscript.
 - S Lu, H Liu. Statistical inference for piecewise normal distributions and stochastic variational inequalities. arXiv:1907.05353, 2019 [preprint](https://arxiv.org/pdf/1907.05353.pdf)
 
