@@ -5,16 +5,16 @@ permalink: /Research/
 ---
 
 
-# Publications
+Publications
 - D. T. Phan, L. M. Nguyen, P. Murali, N. H. Pham, <strong>H. Liu</strong>, J. Kalagnanam. Regression Optimization for System-level Production Control, [American Control Conference (ACC),  2021.](https://acc2021.a2c2.org/)
 - T Qiu, C Song, Y Zhang, <strong>H Liu</strong>, JM Vose.  [Urbanization and climate change jointly shift land surface phenology in the northern mid-latitude large cities](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304961), Remote Sensing of Environment, 2020
 - <strong>H Liu</strong>, S Lu. [Convergence of the augmented decomposition algorithm](https://link.springer.com/article/10.1007/s10589-018-0039-6), Computational Optimization and Applications, 2019
 
 
-# Preprints
+Preprints
 - X Huang, Z Ye, <strong>H Liu</strong>, et. al. Meta-Auto-Decoder for Solving Parametric Partial Differential Equations. arXiv: 2111.08823, 2021 [preprint](https://arxiv.org/pdf/2111.08823.pdf)
 - X Huang, <strong>H Liu</strong>, et. al. Solving Partial Differential Equations with Point Source Based on Physics-Informed Neural Networks. arXiv: 2111.01394, 2021 [preprint](https://arxiv.org/pdf/2111.01394.pdf)
--J Wang, <strong>H Liu</strong>, S. Lu, X. Ban. Insignificance-Based Origin-Destination Demand Estimation for Transportation Networks. Under major revision in Transportation Science.
+- J Wang, <strong>H Liu</strong>, S. Lu, X. Ban. Insignificance-Based Origin-Destination Demand Estimation for Transportation Networks. Under major revision in Transportation Science.
 - <strong>H Liu</strong>, L. M. Nguyen, D. T. Phan. StepDIRECT: A Derivative-Free Optimization Method for Stepwise Functions. Submitted to Journal of Global Optimization.
 - <strong>H Liu</strong>, L. M. Nguyen, D. T. Phan. Hybrid Bayesian Optimization with DIRECT. Manuscript.
 - <strong>H Liu</strong>, L. M. Nguyen, D. T. Phan. A Two-Level Algorithm for Multi-Block Nonconvex Nonsmooth Optimization Problems. Manuscript.
