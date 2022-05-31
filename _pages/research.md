@@ -6,7 +6,7 @@ permalink: /Research/
 
 
 Publications
-- X Huang, <strong>H Liu</strong>, et. al. A universal Physics-Informed Neural Network for solving Partial Differential Equations with a point source. [accepted by IJCAI 2022](https://arxiv.org/pdf/2111.01394.pdf)
+- X Huang, <strong>H Liu</strong>, et. al. A universal Physics-Informed Neural Network for solving Partial Differential Equations with a point source. [Accepted by IJCAI 2022](https://arxiv.org/pdf/2111.01394.pdf)
 - <strong>H Liu</strong>, L. M. Nguyen, D. T. Phan. StepDIRECT: A Derivative-Free Optimization Method for Stepwise Functions, [SIAM International Conference on Data Mining (SDM22)](https://www.siam.org/conferences/cm/conference/sdm22)
 - D. T. Phan, L. M. Nguyen, P. Murali, N. H. Pham, <strong>H. Liu</strong>, J. Kalagnanam. Regression Optimization for System-level Production Control, [American Control Conference (ACC),  2021.](https://acc2021.a2c2.org/)
 - T Qiu, C Song, Y Zhang, <strong>H Liu</strong>, JM Vose.  [Urbanization and climate change jointly shift land surface phenology in the northern mid-latitude large cities](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304961), Remote Sensing of Environment, 2020
