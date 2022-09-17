@@ -6,7 +6,7 @@ permalink: /Research/
 
 
 Publications
-- J Wang, <strong>H Liu</strong>, S. Lu, X. Ban. Insignificance-Based Origin-Destination Demand Estimation for Transportation Networks. [Accepted by Transportation Science].
+- J Wang, <strong>H Liu</strong>, S. Lu, X. Ban. Insignificance-Based Origin-Destination Demand Estimation for Transportation Networks. Accepted by Transportation Science.
 - X Huang, Z Ye, <strong>H Liu</strong>, et. al. Meta-Auto-Decoder for Solving Parametric Partial Differential Equations. [Accepted by NeurIPS 2022](https://arxiv.org/pdf/2111.08823.pdf)
 - X Huang, <strong>H Liu</strong>, et. al. A universal Physics-Informed Neural Network for solving Partial Differential Equations with a point source. [Accepted by IJCAI 2022](https://arxiv.org/pdf/2111.01394.pdf)
 - <strong>H Liu</strong>, L. M. Nguyen, D. T. Phan. StepDIRECT: A Derivative-Free Optimization Method for Stepwise Functions, [SIAM International Conference on Data Mining (SDM22)](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.54)
