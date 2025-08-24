@@ -70,9 +70,10 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap). -->
 
 
+
 ## Code Repositories
 
 Here are some of my GitHub repositories related to research:
 
-- [AI + Scientific Computing](https://github.com/hsliuustc/AI-Scientific-Computing)
-- [LLM Serving](https://github.com/hsliuustc/LLM-Serving)
+- [Nano Qwen3 Serving](https://github.com/hsliuustc/nano-qwen3-serving)
+- [vLLM Ascend](https://github.com/hsliuustc/vllm-ascend)
