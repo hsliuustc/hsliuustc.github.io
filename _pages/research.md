@@ -87,3 +87,11 @@ model.fit(X, y)
 predictions = model.predict([[4], [5]])
 print(predictions)
 ```
+
+
+## Code Repositories
+
+Here are some of my GitHub repositories related to research:
+
+- [AI + Scientific Computing](https://github.com/hsliuustc/AI-Scientific-Computing)
+- [LLM Serving](https://github.com/hsliuustc/LLM-Serving)
