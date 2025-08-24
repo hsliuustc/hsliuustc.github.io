@@ -68,3 +68,22 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 ## Sitemap
 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap). -->
+
+## Code Example
+
+```python
+# Example of a simple machine learning model
+from sklearn.linear_model import LinearRegression
+
+# Create a linear regression model
+model = LinearRegression()
+
+# Fit the model with sample data
+X = [[1], [2], [3]]
+y = [1, 2, 3]
+model.fit(X, y)
+
+# Predict new values
+predictions = model.predict([[4], [5]])
+print(predictions)
+```
